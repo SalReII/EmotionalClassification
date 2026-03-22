@@ -825,6 +825,64 @@
         },
         "timeSpent": 7
       }
+    ],
+    "src/train.py.git": [
+      {
+        "date": "2026-03-22T21:50:22.827Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-03-22T21:50:38.661Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2026-03-22T21:50:52.815Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2026-03-22T21:51:05.399Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2026-03-22T21:51:17.080Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2026-03-22T21:51:25.014Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2026-03-22T21:51:56.822Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 32
+      }
     ]
   }
 }
